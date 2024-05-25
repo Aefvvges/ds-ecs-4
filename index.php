@@ -5,7 +5,7 @@ require_once 'modelo/tipoproducto.php';
 
 $TipoProducto = new TipoProducto();
 $TipoProducto->Descripcion= 'Galletitas';
-$TipoProducto->Id2= 2;
+$TipoProducto->Id= 2;
 
 
 $Producto = new Producto();
