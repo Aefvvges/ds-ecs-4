@@ -10,7 +10,7 @@ $TipoProducto->Id= 2;
 
 $Producto = new Producto();
 
-$Producto->Id1= 1;
+$Producto->Id= 1;
 $Producto->Nombre= 'Merenguitas';
 $Producto->Precio= 1000;
 $Producto->Stock= 10;
